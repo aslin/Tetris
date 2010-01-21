@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=x\ y\ blocktype
+comment0.target=Block(int,\ int,\ int)
+comment1.params=g
+comment1.target=void\ draw(Graphics2D)
+comment2.params=clockwise
+comment2.target=void\ rotate(boolean)
+comment3.params=deltaX\ deltaY
+comment3.target=void\ move(int,\ int)
+comment4.params=x\ y
+comment4.target=void\ moveTo(int,\ int)
+comment5.target=List<Square>\ getSquares()
+numComments=6

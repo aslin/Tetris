@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=x\ y\ color
+comment0.target=Square(int,\ int,\ String)
+comment1.params=deltaX\ deltaY
+comment1.target=void\ move(int,\ int)
+comment2.params=x\ y
+comment2.target=void\ moveTo(int,\ int)
+comment3.params=g
+comment3.target=void\ draw(Graphics2D)
+comment4.params=g
+comment4.target=void\ draw2(Graphics2D)
+comment5.params=g
+comment5.target=void\ fill(Graphics2D)
+comment6.target=int\ getX()
+comment7.target=int\ getY()
+comment8.target=Rectangle\ getRectangle()
+comment9.params=square
+comment9.target=boolean\ intersects(Square)
+numComments=10

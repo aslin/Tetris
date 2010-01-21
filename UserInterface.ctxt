@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=UserInterface()
+comment1.params=title\ xSize\ ySize\ bgColor
+comment1.target=UserInterface(String,\ int,\ int,\ Color)
+comment10.target=int\ getySize()
+comment11.target=void\ erase()
+comment2.params=visible
+comment2.target=void\ setVisible(boolean)
+comment2.text=\nSets\ the\ main\ frame\ visible\ and\ initialize\ some\ "graphics"\n@param\ visible\ true\ to\ turn\ on\ visible\n\n
+comment3.target=boolean\ getVisible()
+comment4.params=obj
+comment4.target=void\ redrawObject(Drawable)
+comment5.params=list
+comment5.target=void\ redrawList(List<Drawable>)
+comment6.target=void\ draw()
+comment7.target=JFrame\ getFrame()
+comment8.target=Graphics2D\ getGraphics()
+comment9.target=int\ getxSize()
+numComments=12

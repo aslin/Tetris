@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GameData()
+comment1.params=lines
+comment1.target=void\ increaseScore(int)
+comment2.target=String\ getScore()
+comment3.target=String\ getLevel()
+comment4.target=String\ getLines()
+comment5.target=int\ getLevelInt()
+numComments=6
